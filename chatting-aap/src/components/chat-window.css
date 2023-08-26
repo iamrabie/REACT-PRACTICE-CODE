@@ -1,0 +1,19 @@
+.john-texts
+{
+  background-color: #3797F0;
+  border-radius: 17px;
+  border:1px solid #3797F0;
+  color:white;
+  font-size: 15px;
+/*   border:1px solid green; */
+}
+
+.bob-texts
+{
+    background-color: #EFEFEF;
+    border-radius: 17px;
+    border:1px solid #EFEFEF;
+    color:black;
+    font-size: 15px;
+   /*  border:1px solid blue; */
+}

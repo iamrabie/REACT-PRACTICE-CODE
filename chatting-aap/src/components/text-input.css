@@ -1,0 +1,39 @@
+input
+{
+    border-radius: 22px;
+    height:5.5vh;
+    border:1px solid lightgray;
+  /*   box-shadow: 1px 1px 2px 1px gray; */
+    outline: none;
+    text-indent: 10px;
+    color:#3B444B;
+}
+
+input::placeholder
+{
+    color:gray;
+
+}
+
+input:hover
+{
+    transition: 0.1s;
+    border:1px solid #3B444B;
+}
+
+.icon
+{
+    font-size: 16px;
+}
+
+button
+{
+    border:none;
+    background-color: transparent;
+    outline:none;
+}
+
+select
+{
+    border:1px solid lightgray;
+}
